@@ -1,0 +1,2 @@
+# Harvard-HuBMAP-Collaboration-Vascular-System-Visualization
+This project is a collaborative effort with Harvard's Human BioMolecular Atlas Program (HuBMAP) aimed at creating a data-driven map of the human vascular system. By applying advanced visualization techniques, we aimed to provide detailed insights into blood vessel structures to facilitate further scientific research and healthcare applications.
